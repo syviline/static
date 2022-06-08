@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: #E7E5E4;
+}
+
+.container {
+    max-width: 960px;
+    padding: 40px 20px;
+    margin: 0 auto;
+}
+
+.map_img {
+    width: 100%;
+}
+
+iframe {
+    width: 100%;
+    height: 400px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 900;
+}
+
+header {
+    font-size: 24px;
+    text-align: center;
+    font-weight: 900;
+    padding-bottom: 40px;
+}
+
+.stats {
+    background-color: #FFF;
+    padding: 
+}
